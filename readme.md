@@ -1,2 +1,3 @@
-Tipo Proyecto: Desafio Front End - Ricomida
+<b>Tipo Proyecto:</b> Desafio Front End - Ricomida
+
 
