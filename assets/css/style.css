@@ -1,0 +1,119 @@
+/* 1. CONFIGURACIÓN INCIAL */
+
+/* 2. TRABAJO POR SECCIONES */
+
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #373A3C;
+    padding: 0;
+    margin: 0;
+}
+
+.navbar-brand {
+    font-family: 'Lobster', cursive; 
+}
+
+
+.carrusel {
+    width: fit-content;
+}
+
+.botones .btn {
+
+    background-color: white;
+    border-color: #DDDDDD;
+    border-width: 1px;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+data-bs-title {
+    width: fit-content;
+}
+
+.font-weight-bold {
+    font-weight: 700!important;
+}
+
+.suscribete {
+    background-color: #DC3545; 
+    padding-bottom: 130px !important;
+}
+
+.texto-sub {
+    text-align: center;
+}
+
+.fondo-color {
+    background-color: #373A3C;
+}
+
+.h3 {
+    font-family:'Lobster', cursive;
+}
+
+.linea2 {
+    font-family:'Lobster', cursive;
+    font-size: 1.4rem;
+}
+
+.linea1 {
+    font-weight: 400;
+}
+
+h6 .card-text {
+    font-size: 10px;
+}
+
+
+
+footer {
+    font-family: 'Lobster', cursive;
+}
+/* 2.a */
+    /* 2.a.1 */
+    /* 2.a.2 */
+    /* 2.a.3 */
+    /* 2.a.4 */
+
+/* 2.b */
+    /* 2.b.1 */
+    /* 2.b.2 */
+    /* 2.b.3 */
+    /* 2.b.4 */
+
+/* 2.c */
+    /* 2.c.1 */
+    /* 2.c.2 */
+    /* 2.c.3 */
+    /* 2.c.4 */
+
+/* 2.d */
+    /* 2.d.1 */
+    /* 2.d.2 */
+    /* 2.d.3 */
+    /* 2.d.4 */
+    
+/* 2.e */    
+    /* 2.e.1 */
+    /* 2.e.2 */
+    /* 2.e.3 */
+    /* 2.e.4 */
+
+/* 2.f */
+    /* 2.f.1 */
+    /* 2.f.2 */
+    /* 2.f.3 */
+    /* 2.f.4 */
+
+/* 2.g */
+    /* 2.g.1 */
+    /* 2.g.2 */
+    /* 2.g.3 */
+    /* 2.g.4 */
+
+/* 2.h */
+    /* 2.h.1 */
+    /* 2.h.2 */
+    /* 2.h.3 */
+    /* 2.h.4 */
